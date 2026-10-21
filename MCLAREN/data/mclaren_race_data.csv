@@ -1,0 +1,202 @@
+Season,Round,Date,GrandPrix,Driver,Race_Pos,Points,Finish_Position,Podium,Win,Cumulative_Points
+2020,1,2020-07-05,Austria,Lando Norris,3,16,3.0,True,False,16
+2020,2,2020-07-12,Styria,Lando Norris,5,10,5.0,False,False,26
+2020,3,2020-07-19,Hungary,Lando Norris,13,0,13.0,False,False,26
+2020,4,2020-08-02,Great Britain,Lando Norris,5,10,5.0,False,False,36
+2020,5,2020-08-09,70th Anniversary,Lando Norris,9,2,9.0,False,False,38
+2020,6,2020-08-16,Spain,Lando Norris,10,1,10.0,False,False,39
+2020,7,2020-08-30,Belgium,Lando Norris,7,6,7.0,False,False,45
+2020,8,2020-09-06,Italy,Lando Norris,4,12,4.0,False,False,57
+2020,9,2020-09-13,Tuscany,Lando Norris,6,8,6.0,False,False,65
+2020,10,2020-09-27,Russia,Lando Norris,15,0,15.0,False,False,65
+2020,11,2020-10-11,Eifel,Lando Norris,DNF,0,,False,False,65
+2020,12,2020-10-25,Portugal,Lando Norris,13,0,13.0,False,False,65
+2020,13,2020-11-01,Emilia-Romagna,Lando Norris,8,4,8.0,False,False,69
+2020,14,2020-11-15,Turkey,Lando Norris,8,5,8.0,False,False,74
+2020,15,2020-11-29,Bahrain,Lando Norris,4,12,4.0,False,False,86
+2020,16,2020-12-06,Sakhir,Lando Norris,10,1,10.0,False,False,87
+2020,17,2020-12-13,Abu Dhabi,Lando Norris,5,10,5.0,False,False,97
+2021,1,2021-03-28,Bahrain,Lando Norris,4,12,4.0,False,False,12
+2021,2,2021-04-18,Emilia-Romagna,Lando Norris,3,15,3.0,True,False,27
+2021,3,2021-05-02,Portugal,Lando Norris,5,10,5.0,False,False,37
+2021,4,2021-05-09,Spain,Lando Norris,8,4,8.0,False,False,41
+2021,5,2021-05-23,Monaco,Lando Norris,3,15,3.0,True,False,56
+2021,6,2021-06-06,Azerbaijan,Lando Norris,5,10,5.0,False,False,66
+2021,7,2021-06-20,France,Lando Norris,5,10,5.0,False,False,76
+2021,8,2021-06-27,Styria,Lando Norris,5,10,5.0,False,False,86
+2021,9,2021-07-04,Austria,Lando Norris,3,15,3.0,True,False,101
+2021,10,2021-07-18,Great Britain,Lando Norris,4,12,4.0,False,False,113
+2021,11,2021-08-01,Hungary,Lando Norris,DNF,0,,False,False,113
+2021,12,2021-08-29,Belgium,Lando Norris,14,0,14.0,False,False,113
+2021,13,2021-09-05,Netherlands,Lando Norris,10,1,10.0,False,False,114
+2021,14,2021-09-12,Italy,Lando Norris,2,18,2.0,True,False,132
+2021,15,2021-09-26,Russia,Lando Norris,7,7,7.0,False,False,139
+2021,16,2021-10-10,Turkey,Lando Norris,7,6,7.0,False,False,145
+2021,17,2021-10-24,United States,Lando Norris,8,4,8.0,False,False,149
+2021,18,2021-11-07,Mexico,Lando Norris,10,1,10.0,False,False,150
+2021,19,2021-11-14,Brazil,Lando Norris,10,1,10.0,False,False,151
+2021,20,2021-11-21,Qatar,Lando Norris,9,2,9.0,False,False,153
+2021,21,2021-12-05,Saudi Arabia,Lando Norris,10,1,10.0,False,False,154
+2021,22,2021-12-12,Abu Dhabi,Lando Norris,7,6,7.0,False,False,160
+2022,1,2022-03-20,Bahrain,Lando Norris,15,0,15.0,False,False,0
+2022,2,2022-03-27,Saudi Arabia,Lando Norris,7,6,7.0,False,False,6
+2022,3,2022-04-10,Australia,Lando Norris,5,10,5.0,False,False,16
+2022,4,2022-04-24,Emilia-Romagna,Lando Norris,3,19,3.0,True,False,35
+2022,5,2022-05-08,Miami,Lando Norris,DNF,0,,False,False,35
+2022,6,2022-05-22,Spain,Lando Norris,8,4,8.0,False,False,39
+2022,7,2022-05-29,Monaco,Lando Norris,6,9,6.0,False,False,48
+2022,8,2022-06-12,Azerbaijan,Lando Norris,9,2,9.0,False,False,50
+2022,9,2022-06-19,Canada,Lando Norris,15,0,15.0,False,False,50
+2022,10,2022-07-03,Great Britain,Lando Norris,6,8,6.0,False,False,58
+2022,11,2022-07-10,Austria,Lando Norris,7,6,7.0,False,False,64
+2022,12,2022-07-24,France,Lando Norris,7,6,7.0,False,False,70
+2022,13,2022-07-31,Hungary,Lando Norris,7,6,7.0,False,False,76
+2022,14,2022-08-28,Belgium,Lando Norris,12,0,12.0,False,False,76
+2022,15,2022-09-04,Netherlands,Lando Norris,7,6,7.0,False,False,82
+2022,16,2022-09-11,Italy,Lando Norris,7,6,7.0,False,False,88
+2022,17,2022-10-02,Singapore,Lando Norris,4,12,4.0,False,False,100
+2022,18,2022-10-09,Japan,Lando Norris,10,1,10.0,False,False,101
+2022,19,2022-10-23,United States,Lando Norris,6,8,6.0,False,False,109
+2022,20,2022-10-30,Mexico,Lando Norris,9,2,9.0,False,False,111
+2022,21,2022-11-13,Brazil,Lando Norris,DNF,2,,False,False,113
+2022,22,2022-11-20,Abu Dhabi,Lando Norris,6,9,6.0,False,False,122
+2023,1,2023-03-05,Bahrain,Lando Norris,17,0,17.0,False,False,0
+2023,2,2023-03-19,Saudi Arabia,Lando Norris,17,0,17.0,False,False,0
+2023,3,2023-04-02,Australia,Lando Norris,6,8,6.0,False,False,8
+2023,4,2023-04-30,Azerbaijan,Lando Norris,9,2,9.0,False,False,10
+2023,5,2023-05-07,Miami,Lando Norris,17,0,17.0,False,False,10
+2023,6,2023-05-28,Monaco,Lando Norris,9,2,9.0,False,False,12
+2023,7,2023-06-04,Spain,Lando Norris,17,0,17.0,False,False,12
+2023,8,2023-06-18,Canada,Lando Norris,13,0,13.0,False,False,12
+2023,9,2023-07-02,Austria,Lando Norris,4,12,4.0,False,False,24
+2023,10,2023-07-09,Great Britain,Lando Norris,2,18,2.0,True,False,42
+2023,11,2023-07-23,Hungary,Lando Norris,2,18,2.0,True,False,60
+2023,12,2023-07-30,Belgium,Lando Norris,7,9,7.0,False,False,69
+2023,13,2023-08-27,Netherlands,Lando Norris,7,6,7.0,False,False,75
+2023,14,2023-09-03,Italy,Lando Norris,8,4,8.0,False,False,79
+2023,15,2023-09-17,Singapore,Lando Norris,2,18,2.0,True,False,97
+2023,16,2023-09-24,Japan,Lando Norris,2,18,2.0,True,False,115
+2023,17,2023-10-08,Qatar,Lando Norris,3,21,3.0,True,False,136
+2023,18,2023-10-22,United States,Lando Norris,2,23,2.0,True,False,159
+2023,19,2023-10-29,Mexico,Lando Norris,5,10,5.0,False,False,169
+2023,20,2023-11-05,Brazil,Lando Norris,2,26,2.0,True,False,195
+2023,21,2023-11-18,Las Vegas,Lando Norris,DNF,0,,False,False,195
+2023,22,2023-11-26,Abu Dhabi,Lando Norris,5,10,5.0,False,False,205
+2023,1,2023-03-05,Bahrain,Oscar Piastri,DNF,0,,False,False,0
+2023,2,2023-03-19,Saudi Arabia,Oscar Piastri,15,0,15.0,False,False,0
+2023,3,2023-04-02,Australia,Oscar Piastri,8,4,8.0,False,False,4
+2023,4,2023-04-30,Azerbaijan,Oscar Piastri,11,0,11.0,False,False,4
+2023,5,2023-05-07,Miami,Oscar Piastri,19,0,19.0,False,False,4
+2023,6,2023-05-28,Monaco,Oscar Piastri,10,1,10.0,False,False,5
+2023,7,2023-06-04,Spain,Oscar Piastri,13,0,13.0,False,False,5
+2023,8,2023-06-18,Canada,Oscar Piastri,11,0,11.0,False,False,5
+2023,9,2023-07-02,Austria,Oscar Piastri,16,0,16.0,False,False,5
+2023,10,2023-07-09,Great Britain,Oscar Piastri,4,12,4.0,False,False,17
+2023,11,2023-07-23,Hungary,Oscar Piastri,5,10,5.0,False,False,27
+2023,12,2023-07-30,Belgium,Oscar Piastri,DNF,7,,False,False,34
+2023,13,2023-08-27,Netherlands,Oscar Piastri,9,2,9.0,False,False,36
+2023,14,2023-09-03,Italy,Oscar Piastri,12,0,12.0,False,False,36
+2023,15,2023-09-17,Singapore,Oscar Piastri,7,6,7.0,False,False,42
+2023,16,2023-09-24,Japan,Oscar Piastri,3,15,3.0,True,False,57
+2023,17,2023-10-08,Qatar,Oscar Piastri,2,26,2.0,True,False,83
+2023,18,2023-10-22,United States,Oscar Piastri,DNF,0,,False,False,83
+2023,19,2023-10-29,Mexico,Oscar Piastri,8,4,8.0,False,False,87
+2023,20,2023-11-05,Brazil,Oscar Piastri,14,0,14.0,False,False,87
+2023,21,2023-11-18,Las Vegas,Oscar Piastri,10,2,10.0,False,False,89
+2023,22,2023-11-26,Abu Dhabi,Oscar Piastri,6,8,6.0,False,False,97
+2024,1,2024-03-02,Bahrain,Lando Norris,6,8,6.0,False,False,8
+2024,2,2024-03-09,Saudi Arabia,Lando Norris,8,4,8.0,False,False,12
+2024,3,2024-03-24,Australia,Lando Norris,3,15,3.0,True,False,27
+2024,4,2024-04-07,Japan,Lando Norris,5,10,5.0,False,False,37
+2024,5,2024-04-21,China,Lando Norris,2,21,2.0,True,False,58
+2024,6,2024-05-05,Miami,Lando Norris,1,25,1.0,True,True,83
+2024,7,2024-05-19,Emilia-Romagna,Lando Norris,2,18,2.0,True,False,101
+2024,8,2024-05-26,Monaco,Lando Norris,4,12,4.0,False,False,113
+2024,9,2024-06-09,Canada,Lando Norris,2,18,2.0,True,False,131
+2024,10,2024-06-23,Spain,Lando Norris,2,19,2.0,True,False,150
+2024,11,2024-06-30,Austria,Lando Norris,20,6,20.0,False,False,156
+2024,12,2024-07-07,Great Britain,Lando Norris,3,15,3.0,True,False,171
+2024,13,2024-07-21,Hungary,Lando Norris,2,18,2.0,True,False,189
+2024,14,2024-07-28,Belgium,Lando Norris,5,10,5.0,False,False,199
+2024,15,2024-08-25,Netherlands,Lando Norris,1,26,1.0,True,True,225
+2024,16,2024-09-01,Italy,Lando Norris,3,16,3.0,True,False,241
+2024,17,2024-09-15,Azerbaijan,Lando Norris,4,13,4.0,False,False,254
+2024,18,2024-09-22,Singapore,Lando Norris,1,25,1.0,True,True,279
+2024,19,2024-10-20,United States,Lando Norris,4,18,4.0,False,False,297
+2024,20,2024-10-27,Mexico,Lando Norris,2,18,2.0,True,False,315
+2024,21,2024-11-03,Brazil,Lando Norris,6,16,6.0,False,False,331
+2024,22,2024-11-23,Las Vegas,Lando Norris,6,9,6.0,False,False,340
+2024,23,2024-12-01,Qatar,Lando Norris,10,9,10.0,False,False,349
+2024,24,2024-12-08,Abu Dhabi,Lando Norris,1,25,1.0,True,True,374
+2024,1,2024-03-02,Bahrain,Oscar Piastri,8,4,8.0,False,False,4
+2024,2,2024-03-09,Saudi Arabia,Oscar Piastri,4,12,4.0,False,False,16
+2024,3,2024-03-24,Australia,Oscar Piastri,4,12,4.0,False,False,28
+2024,4,2024-04-07,Japan,Oscar Piastri,8,4,8.0,False,False,32
+2024,5,2024-04-21,China,Oscar Piastri,8,6,8.0,False,False,38
+2024,6,2024-05-05,Miami,Oscar Piastri,13,3,13.0,False,False,41
+2024,7,2024-05-19,Emilia-Romagna,Oscar Piastri,4,12,4.0,False,False,53
+2024,8,2024-05-26,Monaco,Oscar Piastri,2,18,2.0,True,False,71
+2024,9,2024-06-09,Canada,Oscar Piastri,5,10,5.0,False,False,81
+2024,10,2024-06-23,Spain,Oscar Piastri,7,6,7.0,False,False,87
+2024,11,2024-06-30,Austria,Oscar Piastri,2,25,2.0,True,False,112
+2024,12,2024-07-07,Great Britain,Oscar Piastri,4,12,4.0,False,False,124
+2024,13,2024-07-21,Hungary,Oscar Piastri,1,25,1.0,True,True,149
+2024,14,2024-07-28,Belgium,Oscar Piastri,2,18,2.0,True,False,167
+2024,15,2024-08-25,Netherlands,Oscar Piastri,4,12,4.0,False,False,179
+2024,16,2024-09-01,Italy,Oscar Piastri,2,18,2.0,True,False,197
+2024,17,2024-09-15,Azerbaijan,Oscar Piastri,1,25,1.0,True,True,222
+2024,18,2024-09-22,Singapore,Oscar Piastri,3,15,3.0,True,False,237
+2024,19,2024-10-20,United States,Oscar Piastri,5,10,5.0,False,False,247
+2024,20,2024-10-27,Mexico,Oscar Piastri,8,4,8.0,False,False,251
+2024,21,2024-11-03,Brazil,Oscar Piastri,8,11,8.0,False,False,262
+2024,22,2024-11-23,Las Vegas,Oscar Piastri,7,6,7.0,False,False,268
+2024,23,2024-12-01,Qatar,Oscar Piastri,3,23,3.0,True,False,291
+2024,24,2024-12-08,Abu Dhabi,Oscar Piastri,10,1,10.0,False,False,292
+2025,1,2025-03-16,Australia,Lando Norris,1,25,1.0,True,True,25
+2025,2,2025-03-23,China,Lando Norris,2,19,2.0,True,False,44
+2025,3,2025-04-06,Japan,Lando Norris,2,18,2.0,True,False,62
+2025,4,2025-04-13,Bahrain,Lando Norris,3,15,3.0,True,False,77
+2025,5,2025-04-20,Saudi Arabia,Lando Norris,4,12,4.0,False,False,89
+2025,6,2025-05-04,Miami,Lando Norris,2,26,2.0,True,False,115
+2025,7,2025-05-18,Emilia-Romagna,Lando Norris,2,18,2.0,True,False,133
+2025,8,2025-05-25,Monaco,Lando Norris,1,25,1.0,True,True,158
+2025,9,2025-06-01,Spain,Lando Norris,2,18,2.0,True,False,176
+2025,10,2025-06-15,Canada,Lando Norris,DNF,0,,False,False,176
+2025,11,2025-06-29,Austria,Lando Norris,1,25,1.0,True,True,201
+2025,12,2025-07-06,Great Britain,Lando Norris,1,25,1.0,True,True,226
+2025,13,2025-07-27,Belgium,Lando Norris,2,24,2.0,True,False,250
+2025,14,2025-08-03,Hungary,Lando Norris,1,25,1.0,True,True,275
+2025,15,2025-08-31,Netherlands,Lando Norris,DNF,0,,False,False,275
+2025,16,2025-09-07,Italy,Lando Norris,2,18,2.0,True,False,293
+2025,17,2025-09-21,Azerbaijan,Lando Norris,7,6,7.0,False,False,299
+2025,18,2025-10-05,Singapore,Lando Norris,3,15,3.0,True,False,314
+2025,19,2025-10-19,United States,Lando Norris,2,18,2.0,True,False,332
+2025,20,2025-10-26,Mexico,Lando Norris,1,25,1.0,True,True,357
+2025,21,2025-11-09,Brazil,Lando Norris,1,33,1.0,True,True,390
+2025,22,2025-11-22,Las Vegas,Lando Norris,DSQ,0,,False,False,390
+2025,23,2025-11-30,Qatar,Lando Norris,4,18,4.0,False,False,408
+2025,24,2025-12-07,Abu Dhabi,Lando Norris,3,15,3.0,True,False,423
+2025,1,2025-03-16,Australia,Oscar Piastri,9,2,9.0,False,False,2
+2025,2,2025-03-23,China,Oscar Piastri,1,32,1.0,True,True,34
+2025,3,2025-04-06,Japan,Oscar Piastri,3,15,3.0,True,False,49
+2025,4,2025-04-13,Bahrain,Oscar Piastri,1,25,1.0,True,True,74
+2025,5,2025-04-20,Saudi Arabia,Oscar Piastri,1,25,1.0,True,True,99
+2025,6,2025-05-04,Miami,Oscar Piastri,1,32,1.0,True,True,131
+2025,7,2025-05-18,Emilia-Romagna,Oscar Piastri,3,15,3.0,True,False,146
+2025,8,2025-05-25,Monaco,Oscar Piastri,3,15,3.0,True,False,161
+2025,9,2025-06-01,Spain,Oscar Piastri,1,25,1.0,True,True,186
+2025,10,2025-06-15,Canada,Oscar Piastri,4,12,4.0,False,False,198
+2025,11,2025-06-29,Austria,Oscar Piastri,2,18,2.0,True,False,216
+2025,12,2025-07-06,Great Britain,Oscar Piastri,2,18,2.0,True,False,234
+2025,13,2025-07-27,Belgium,Oscar Piastri,1,32,1.0,True,True,266
+2025,14,2025-08-03,Hungary,Oscar Piastri,2,18,2.0,True,False,284
+2025,15,2025-08-31,Netherlands,Oscar Piastri,1,25,1.0,True,True,309
+2025,16,2025-09-07,Italy,Oscar Piastri,3,15,3.0,True,False,324
+2025,17,2025-09-21,Azerbaijan,Oscar Piastri,DNF,0,,False,False,324
+2025,18,2025-10-05,Singapore,Oscar Piastri,4,12,4.0,False,False,336
+2025,19,2025-10-19,United States,Oscar Piastri,5,10,5.0,False,False,346
+2025,20,2025-10-26,Mexico,Oscar Piastri,5,10,5.0,False,False,356
+2025,21,2025-11-09,Brazil,Oscar Piastri,5,10,5.0,False,False,366
+2025,22,2025-11-22,Las Vegas,Oscar Piastri,DSQ,0,,False,False,366
+2025,23,2025-11-30,Qatar,Oscar Piastri,2,26,2.0,True,False,392
+2025,24,2025-12-07,Abu Dhabi,Oscar Piastri,2,18,2.0,True,False,410
